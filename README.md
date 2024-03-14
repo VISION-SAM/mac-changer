@@ -1,5 +1,5 @@
 # mac-changer-for-linux
-Python program to change mac address.
+Python program to change MAC address.
 
 Run this Program as super-user (sudo)
 
