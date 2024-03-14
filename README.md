@@ -5,7 +5,7 @@ Run this Program as super-user (sudo)
 
 [Usage]
        
-       python mac_changer.py -i "interface" -m "new mac"
+       python mac_changer.py -i "interface" -m "new_mac"
 
 [Options]
  
