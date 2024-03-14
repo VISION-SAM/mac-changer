@@ -1,6 +1,8 @@
 # mac-changer-for-linux
 Python program to change mac address of NIC in linux system.
+
 Run this Program as super-user (sudo)
+
 [Usage]
        
        python mac_changer.py -i "interface" -m "new mac"
